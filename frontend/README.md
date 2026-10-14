@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+[[[# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
@@ -30,3 +30,58 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+](https://sprint-4-gruf.vercel.app
+
+# Kampüs Etkinlikleri - Sprint 4 (React & TypeScript)
+**Ad Soyad:** Deniz Karanfil
+**Öğrenci No:** 2416501047
+
+## Proje Dosyaları ve Görevleri
+
+* **`package.json`**: Proje adı, komutlar (dev, build) ve kullanılacak paket listesini barındırır.
+* **`package-lock.json`**: Yüklenen paketlerin tam sürümlerini kilitleyerek herkesin aynı sürümü kullanmasını sağlar.
+* **`node_modules/`**: İndirilen paketlerin kodlarının bulunduğu klasördür (GitHub'a gönderilmez).
+* **`tsconfig*.json`**: TypeScript derleyicisinin projeye özel ayarlarını içerir.
+* **`vite.config.ts`**: Vite geliştirme ortamı ayarları ve React eklentisi yapılandırmasını tutar.
+* **`index.html`**: Uygulamanın ana HTML dosyasıdır ve içinde React'in yerleştiği boş `div#root` alanını barındırır.
+* **`src/main.tsx`**: React uygulamasını başlatan ve `App` bileşenini `root` elementine çizen giriş dosyasıdır.
+* **`src/App.tsx`**: Uygulamanın sayfalarını, geçişlerini ve tüm state mantığını yöneten ana bileşenidir.
+* **`src/App.css`**: Uygulamanın (Sprint 3'ten taşınan) bileşen stillerini içerir.
+* **`src/index.css`**: Tüm projeyi kapsayan genel stil dosyasıdır (bu sprintte çakışmayı önlemek için boşaltılmıştır).
+* **`public/`**: Afiş görselleri gibi herhangi bir derleme işlemine girmeden doğrudan sunulan statik dosyaları tutar.)](https://sprint-4-gruf.vercel.app
+
+# Kampüs Etkinlikleri - Sprint 4 (React & TypeScript)
+**Ad Soyad:** Deniz Karanfil
+**Öğrenci No:** 2416501047
+
+## Proje Dosyaları ve Görevleri
+
+* **`package.json`**: Proje adı, komutlar (dev, build) ve kullanılacak paket listesini barındırır.
+* **`package-lock.json`**: Yüklenen paketlerin tam sürümlerini kilitleyerek herkesin aynı sürümü kullanmasını sağlar.
+* **`node_modules/`**: İndirilen paketlerin kodlarının bulunduğu klasördür (GitHub'a gönderilmez).
+* **`tsconfig*.json`**: TypeScript derleyicisinin projeye özel ayarlarını içerir.
+* **`vite.config.ts`**: Vite geliştirme ortamı ayarları ve React eklentisi yapılandırmasını tutar.
+* **`index.html`**: Uygulamanın ana HTML dosyasıdır ve içinde React'in yerleştiği boş `div#root` alanını barındırır.
+* **`src/main.tsx`**: React uygulamasını başlatan ve `App` bileşenini `root` elementine çizen giriş dosyasıdır.
+* **`src/App.tsx`**: Uygulamanın sayfalarını, geçişlerini ve tüm state mantığını yöneten ana bileşenidir.
+* **`src/App.css`**: Uygulamanın (Sprint 3'ten taşınan) bileşen stillerini içerir.
+* **`src/index.css`**: Tüm projeyi kapsayan genel stil dosyasıdır (bu sprintte çakışmayı önlemek için boşaltılmıştır).
+* **`public/`**: Afiş görselleri gibi herhangi bir derleme işlemine girmeden doğrudan sunulan statik dosyaları tutar.)](https://sprint-4-gruf.vercel.app
+
+# Kampüs Etkinlikleri - Sprint 4 (React & TypeScript)
+**Ad Soyad:** Deniz Karanfil
+**Öğrenci No:** 2416501047
+
+## Proje Dosyaları ve Görevleri
+
+* **`package.json`**: Proje adı, komutlar (dev, build) ve kullanılacak paket listesini barındırır.
+* **`package-lock.json`**: Yüklenen paketlerin tam sürümlerini kilitleyerek herkesin aynı sürümü kullanmasını sağlar.
+* **`node_modules/`**: İndirilen paketlerin kodlarının bulunduğu klasördür (GitHub'a gönderilmez).
+* **`tsconfig*.json`**: TypeScript derleyicisinin projeye özel ayarlarını içerir.
+* **`vite.config.ts`**: Vite geliştirme ortamı ayarları ve React eklentisi yapılandırmasını tutar.
+* **`index.html`**: Uygulamanın ana HTML dosyasıdır ve içinde React'in yerleştiği boş `div#root` alanını barındırır.
+* **`src/main.tsx`**: React uygulamasını başlatan ve `App` bileşenini `root` elementine çizen giriş dosyasıdır.
+* **`src/App.tsx`**: Uygulamanın sayfalarını, geçişlerini ve tüm state mantığını yöneten ana bileşenidir.
+* **`src/App.css`**: Uygulamanın (Sprint 3'ten taşınan) bileşen stillerini içerir.
+* **`src/index.css`**: Tüm projeyi kapsayan genel stil dosyasıdır (bu sprintte çakışmayı önlemek için boşaltılmıştır).
+* **`public/`**: Afiş görselleri gibi herhangi bir derleme işlemine girmeden doğrudan sunulan statik dosyaları tutar.)
